@@ -1,0 +1,8 @@
+C:\Users\Uday\OneDrive\Desktop\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\Uday\OneDrive\Desktop\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\Uday\OneDrive\Desktop\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\Uday\OneDrive\Desktop\BinarySearch\obj\Debug\BinarySearch.csproj.AssemblyReference.cache
+C:\Users\Uday\OneDrive\Desktop\BinarySearch\obj\Debug\BinarySearch.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uday\OneDrive\Desktop\BinarySearch\obj\Debug\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\Uday\OneDrive\Desktop\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\Uday\OneDrive\Desktop\BinarySearch\obj\Debug\BinarySearch.pdb

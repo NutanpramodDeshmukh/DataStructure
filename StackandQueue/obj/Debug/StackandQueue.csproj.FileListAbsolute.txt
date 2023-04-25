@@ -1,0 +1,8 @@
+C:\Users\Uday\OneDrive\Desktop\Remap\DataStructureProgram\StackandQueue\bin\Debug\StackandQueue.exe.config
+C:\Users\Uday\OneDrive\Desktop\Remap\DataStructureProgram\StackandQueue\bin\Debug\StackandQueue.exe
+C:\Users\Uday\OneDrive\Desktop\Remap\DataStructureProgram\StackandQueue\bin\Debug\StackandQueue.pdb
+C:\Users\Uday\OneDrive\Desktop\Remap\DataStructureProgram\StackandQueue\obj\Debug\StackandQueue.csproj.AssemblyReference.cache
+C:\Users\Uday\OneDrive\Desktop\Remap\DataStructureProgram\StackandQueue\obj\Debug\StackandQueue.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uday\OneDrive\Desktop\Remap\DataStructureProgram\StackandQueue\obj\Debug\StackandQueue.csproj.CoreCompileInputs.cache
+C:\Users\Uday\OneDrive\Desktop\Remap\DataStructureProgram\StackandQueue\obj\Debug\StackandQueue.exe
+C:\Users\Uday\OneDrive\Desktop\Remap\DataStructureProgram\StackandQueue\obj\Debug\StackandQueue.pdb
